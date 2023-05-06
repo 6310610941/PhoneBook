@@ -15,7 +15,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.phonebook.ui.theme.PhoneBookTheme
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.phonebook.routing.MyNotesRouter
+import com.example.phonebook.routing.PhoneBookRouter
 import com.example.phonebook.routing.Screen
 import com.example.phonebook.screens.NotesScreen
 import com.example.phonebook.screens.SaveNoteScreen
